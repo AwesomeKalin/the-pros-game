@@ -1,0 +1,180 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ObsidianAxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_axe"
+    },
+    {
+      "name": "ObsidianPickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_pickaxe"
+    },
+    {
+      "name": "ObsidianSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_sword"
+    },
+    {
+      "name": "LapisAxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_axe"
+    },
+    {
+      "name": "LapisPickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_pickaxe"
+    },
+    {
+      "name": "LapisSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_sword"
+    },
+    {
+      "name": "RedstoneAxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_axe"
+    },
+    {
+      "name": "RedstonePickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_pickaxe"
+    },
+    {
+      "name": "RedstoneSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_sword"
+    },
+    {
+      "name": "EmeraldAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_axe"
+    },
+    {
+      "name": "EmeraldPickaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_pickaxe"
+    },
+    {
+      "name": "EmeraldSword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword"
+    },
+    {
+      "name": "GlowstoneAxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_axe"
+    },
+    {
+      "name": "GlowstonePickaxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_pickaxe"
+    },
+    {
+      "name": "GlowstoneSword",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_sword"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.lapis_pickaxe.name": "Lapis Pickaxe",
+      "item.obsidian_sword.name": "Obsidian Sword",
+      "item.glowstone_axe.name": "Glowstone Axe",
+      "item.emerald_pickaxe.name": "Emerald Pickaxe",
+      "item.emerald_sword.name": "Emerald Sword",
+      "item.obsidian_axe.name": "Obsidian Axe",
+      "item.obsidian_pickaxe.name": "Obsidian Pickaxe",
+      "item.redstone_axe.name": "Redstone Axe",
+      "item.emerald_axe.name": "Emerald Axe",
+      "item.lapis_sword.name": "Lapis Sword",
+      "item.redstone_pickaxe.name": "Redstone Pickaxe",
+      "item.glowstone_sword.name": "Glowstone Sword",
+      "item.lapis_axe.name": "Lapis Axe",
+      "item.glowstone_pickaxe.name": "Glowstone Axe",
+      "item.redstone_sword.name": "Redstone Sword"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "the_pros_game",
+    "modName": "The Pro\u0027s Game",
+    "version": "1.1",
+    "description": "The mod for pro\u0027s",
+    "author": "AwesomeKalin 55, AwesomeFootbal 123",
+    "websiteURL": "https://github.com/AwesomeKalin/the-pros-game",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "io.itch.awesomekalin.theprosgame",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
