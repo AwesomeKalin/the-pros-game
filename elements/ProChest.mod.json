@@ -78,7 +78,7 @@
     "hasInventory": true,
     "guiBoundTo": "ProChestGUI",
     "openGUIOnRightClick": true,
-    "inventorySize": 9,
+    "inventorySize": 236,
     "inventoryStackSize": 127,
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
